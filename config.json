@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvave",
+        "uuid": 15025032,
+        "checksum": "galgzy"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
